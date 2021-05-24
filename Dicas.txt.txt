@@ -1,0 +1,10 @@
+-- Instalando expo
+npm install --global expo-cli
+
+-- Iniciando projeto com expo
+expo init plantmaneger
+
+black - typescript
+
+-- Iniciar projeto
+expo start
